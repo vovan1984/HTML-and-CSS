@@ -1,0 +1,9 @@
+body {background-color:rgba(1,128,156,0.1); text-align:center}
+p {color:rgb(50,50,50);font-size:100%}
+h1 {color:tomato; font-family:verdana;font-size:200%}
+blockquote 
+{
+	border:1px solid green;
+	padding: 5px;
+	margin: 10px; <!-- space outside the border -->
+}
