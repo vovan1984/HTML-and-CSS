@@ -5,5 +5,31 @@ blockquote
 {
 	border:1px solid green;
 	padding: 5px;
-	margin: 10px; <!-- space outside the border -->
+	margin: 10px; 
+	background-color: DodgerBlue;
+	color: Yellow
+}
+
+table, th, td
+{
+	border:1px solid green;
+	border-collapse:collapse;
+	padding: 5px;
+}
+
+thead
+{
+	color: yellow;
+	background-color: #234234;
+}
+
+tfoot
+{
+	color: yellow;
+	background-color: tomato;
+}
+
+tr:nth-child(even)
+{
+	background-color:#AAAAAA;
 }
