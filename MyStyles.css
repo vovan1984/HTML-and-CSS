@@ -15,6 +15,11 @@ table, th, td
 	border:1px solid green;
 	border-collapse:collapse;
 	padding: 5px;
+}
+
+table
+{
+	width: 80%;
 	margin: 20px;
 }
 
