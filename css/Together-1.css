@@ -1,0 +1,23 @@
+h1
+{
+	background: #061F6B;
+	font-size: 150%;
+	color: #FFFFFF;
+}
+
+header
+{
+	text-align: center;
+}
+
+nav
+{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Serif, Arial, "Times New Roman";
+}
+
+h2
+{
+	color: #003A5E;
+}
