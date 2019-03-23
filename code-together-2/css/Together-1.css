@@ -1,0 +1,49 @@
+body
+{
+    background: #f3f4eb;
+    margin: 1.5%;
+}
+
+h1
+{
+	background: #061F6B;
+	font-size: 150%;
+	color: #FFFFFF;
+}
+
+header
+{
+	text-align: center;
+}
+
+nav
+{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Serif, Arial, "Times New Roman";
+}
+
+section
+{
+    display: inline-block;
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+}
+
+h2
+{
+    background: #a2c98e;
+	color: #003A5E;
+}
+
+footer
+{
+    color: gray;
+    clear: both;
+}
+
+img
+{
+    width: 80px;
+}
